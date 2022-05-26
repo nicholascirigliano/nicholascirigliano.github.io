@@ -1,5 +1,5 @@
 ---
-title: Nicholas Cirigliano
+title: Nicholas
 description: Personal Github webiste of Nicholas Cirigliano, MSBA student at William & Mary
 ---
 
