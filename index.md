@@ -4,7 +4,7 @@ description: Personal Github site of Nicholas Cirigliano, MSBA student at The Co
 ---
 
 
-![My Picture](/Users/nicholascirigliano/Documents/Nicholas’s MacBook Pro/MSBA/GitHub/GithubPic.jpg)
+![My Picture](/Users/nicholascirigliano/Documents/Nicholas’sMacBookPro/MSBA/GitHub/GithubPic.jpg)
 
 Time series content I have developed for my courses: 
 
