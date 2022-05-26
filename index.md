@@ -7,4 +7,4 @@ Time series content I have developed for my courses:
 
  - [Time Series Decompositions](/TimeSeries/index.md)
 
-![My Picture](/Pics/GithubPic.jpeg)
+![My Picture](/Users/nicholascirigliano/Documents/Nicholas’s MacBook Pro/MSBA/GithubPic.jpeg)
