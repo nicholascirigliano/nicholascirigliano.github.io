@@ -1,6 +1,6 @@
 ---
 title: Nicholas Cirigliano
-description: Personal Github webiste of Nicholas Cirigliano, MSBA student at The College of William & Mary
+description: Personal Github webiste of Nicholas Cirigliano, MSBA student at William & Mary
 ---
 
 Time series content I have developed for my courses: 
