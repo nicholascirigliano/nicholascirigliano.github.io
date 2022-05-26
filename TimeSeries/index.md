@@ -7,3 +7,6 @@ Below are Time Series Decompositions I used in my first MSBA course, "Competing 
 - [Time Series Decompositions (html)](TimeSeriesDecomposition.html)
 - [Time Series Decompositions (ipynb)](TimeSeriesDecomposition.ipynb)
 
+
+[Return to Homepage](https://nicholascirigliano.github.io/)  
+
