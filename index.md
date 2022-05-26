@@ -1,6 +1,6 @@
 ---
 title: Nicholas Cirigliano
-MSBA student at The College of William & Mary
+description: MSBA student at The College of William & Mary
 ---
 
 
