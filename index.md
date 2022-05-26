@@ -1,11 +1,11 @@
 ---
 Title: Nicholas Cirigliano
-Description: MSBA student at The College of William & Mary 
+Description: MSBA student at The College of William and Mary 
 ---
 
 ![My Picture](/pics/GithubPic.jpeg)
 
-Time series content I have developed for my courses: 
+Time Series Data
 
  - [Time Series Decompositions](/TimeSeries/index.md)
 
