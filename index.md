@@ -5,4 +5,4 @@ description: Personal Github webiste of Nicholas Cirigliano, MSBA student at The
 
 Content I have developed for my courses: 
 
- - [Time Series Decompositions](/TimeSeries/index.md
+ - [Time Series Decompositions](/TimeSeries/index.md)
