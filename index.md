@@ -1,6 +1,6 @@
 ---
-title: Nicholas Cirigliano
-description: MSBA student at The College of William & Mary 
+Title: Nicholas Cirigliano
+Description: MSBA student at The College of William & Mary 
 ---
 
 ![My Picture](/pics/GithubPic.jpeg)
