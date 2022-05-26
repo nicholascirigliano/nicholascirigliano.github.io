@@ -1,5 +1,6 @@
 ---
-layout: default
+title: Nicholas Cirigliano
+description: Personal Github webiste of Nicholas Cirigliano, MSBA student at The College of William & Mary 
 ---
 
 Text can be **bold**, _italic_, or ~~strikethrough~~.
