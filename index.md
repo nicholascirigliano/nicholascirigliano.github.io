@@ -7,6 +7,8 @@ Description: MSBA student at The College of William and Mary
 
 Foodie Friend Amanda Website Files
 
+ - [Foodie Friend](https://github.com/nicholascirigliano/FoodieFriend)
+
 Time Series Data
 
  - [Time Series Decompositions](/TimeSeries/index.md)
