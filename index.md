@@ -5,7 +5,7 @@ Description: MSBA student at The College of William and Mary
 
 ![My Picture](/pics/GithubPic.jpeg)
 
-Personal Blog Website Files
+Blog Website Files
 
  - [Personal Blog](https://github.com/nicholascirigliano/FoodieFriend)
 
