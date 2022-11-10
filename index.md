@@ -5,9 +5,9 @@ Description: MSBA student at The College of William and Mary
 
 ![My Picture](/pics/GithubPic.jpeg)
 
-Foodie Friend Amanda Website Files
+Personal Blog Website Files
 
- - [Foodie Friend](https://github.com/nicholascirigliano/FoodieFriend)
+ - [Personal Blog](https://github.com/nicholascirigliano/FoodieFriend)
 
 Time Series Data
 
