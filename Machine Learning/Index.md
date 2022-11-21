@@ -1,5 +1,5 @@
 ---
-title: Machine Learning Projects
+title: Machine Learning Project
 description: A display of some fun machine learning projects I have completed
 ---
 
