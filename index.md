@@ -5,9 +5,9 @@ Description: MSBA student at The College of William and Mary
 
 ![My Picture](/pics/GithubPic.jpeg)
 
-Blog Website Files
+Machine Learning
 
- - [Personal Blog](https://github.com/nicholascirigliano/FoodieFriend)
+ - [Machine Learning Projects]
 
 Time Series Data
 
