@@ -7,7 +7,7 @@ Description: MSBA student at The College of William and Mary
 
 Machine Learning
 
- - [Machine Learning Projects]
+ - [Machine Learning Projects](/MachineLearning/index.md)
 
 Time Series Data
 
