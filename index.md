@@ -8,7 +8,7 @@ Description: MSBA student at The College of William and Mary
 
 Home Page Repository
 
- - [Repository](https://github.com/nicholascirigliano/nicholascirigliano.github.io)
+ - [Home](https://github.com/nicholascirigliano/nicholascirigliano.github.io)
 
 DataCamp
 
