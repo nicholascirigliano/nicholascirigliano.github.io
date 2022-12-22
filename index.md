@@ -12,7 +12,7 @@ Home Page Repository
 
 DataCamp
 
- - [DataCamp Projects](/DataCamp Projects/index.md)
+ - [DataCamp Projects](/DataCampProjects/index.md)
 
 Time Series Data
 
