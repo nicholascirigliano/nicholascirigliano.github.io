@@ -10,9 +10,9 @@ Home Page Repository
 
  - [Repository](https://github.com/nicholascirigliano/nicholascirigliano.github.io)
 
-Machine Learning
+DataCamp
 
- - [Machine Learning Projects](/MachineLearning/index.md)
+ - [DataCamp Projects](/DataCamp Projects/index.md)
 
 Time Series Data
 
